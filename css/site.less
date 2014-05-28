@@ -1,0 +1,70 @@
+@greynav: #4d4d4f;
+@white: #FFFFFF;
+@slideText: 'Source Sans Pro', sans-serif;
+
+/*clear setting applied by Chrome */
+ul{
+    padding: 0;
+    margin: 0;
+    border: 0;    
+}
+
+.pull-right {
+    float: right;
+    margin-right: 5px;
+}
+
+.headfoottext {
+
+    font-family: @slideText;
+    color: @white;
+    font-weight: bold;  
+    padding: 1%;
+    font-size: 25px;
+    li {
+        display: inline;
+        list-style: none;
+    }
+}
+
+footer {
+	background-color: @greynav;
+    box-shadow: -1px -1px 14px #333333;
+	    -moz-box-shadow: -1px -1px 14px #333333;
+        -webkit-box-shadow: -1px -1px 14px #333333;
+    color: @white;
+}
+
+footer {
+    .addthis_32x32_style {
+        
+        .at15nc {
+
+            &.at300bs {
+                //http://tomswebspace.com/round-social-media-icons/
+                background: url(/img/socialicons.png) no-repeat left !important;
+            }
+            &.at15t_linkedin {
+                background-position: 0 0 !important;
+            } 
+            &.at15t_github {
+                background-position: 0 -32px !important;
+            } 
+            &.at15t_youtube {
+                background-position: 0 -64px !important;
+            }
+            &.at15t_twitter {
+                background-position: 0 -96px !important;
+            }  
+            &.at15t_facebook {
+                background-position: 0 -128px !important;
+            }  
+            &.at15t_pinterest {
+                background-position: 0 -160px !important;
+            }  
+            &.at15t_instagram {
+                background-position: 0 -192px !important;
+            } 
+        }    
+    }    
+}
