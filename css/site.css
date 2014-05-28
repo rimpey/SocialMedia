@@ -1,0 +1,52 @@
+/*clear setting applied by Chrome */
+ul {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+.pull-right {
+  float: right;
+  margin-right: 5px;
+}
+.headfoottext {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 1%;
+  font-size: 25px;
+}
+.headfoottext li {
+  display: inline;
+  list-style: none;
+}
+footer {
+  background-color: #4d4d4f;
+  box-shadow: -1px -1px 14px #333333;
+  -moz-box-shadow: -1px -1px 14px #333333;
+  -webkit-box-shadow: -1px -1px 14px #333333;
+  color: #ffffff;
+}
+footer .addthis_32x32_style .at15nc.at300bs {
+  background: url(/img/socialicons.png) no-repeat left !important;
+}
+footer .addthis_32x32_style .at15nc.at15t_linkedin {
+  background-position: 0 0 !important;
+}
+footer .addthis_32x32_style .at15nc.at15t_github {
+  background-position: 0 -32px !important;
+}
+footer .addthis_32x32_style .at15nc.at15t_youtube {
+  background-position: 0 -64px !important;
+}
+footer .addthis_32x32_style .at15nc.at15t_twitter {
+  background-position: 0 -96px !important;
+}
+footer .addthis_32x32_style .at15nc.at15t_facebook {
+  background-position: 0 -128px !important;
+}
+footer .addthis_32x32_style .at15nc.at15t_pinterest {
+  background-position: 0 -160px !important;
+}
+footer .addthis_32x32_style .at15nc.at15t_instagram {
+  background-position: 0 -192px !important;
+}
