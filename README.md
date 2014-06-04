@@ -1,3 +1,5 @@
+![alt text](http://docs.rhondaimpey.com/img/socialmedia.jpg "Social Media")
+
 SocialMedia
 ===========
 
