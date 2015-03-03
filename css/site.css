@@ -26,6 +26,43 @@ footer {
   -webkit-box-shadow: -1px -1px 14px #333333;
   color: #ffffff;
 }
+
+/* UPDATE site.css according to class name changes made by AddThis.com */
+.aticon-linkedin:hover,
+.aticon-github:hover,
+.aticon-youtube:hover,
+.aticon-twitter:hover,
+.aticon-facebook:hover,
+.aticon-pinterest:hover,
+.aticon-instagram:hover {
+  position: relative;
+  top: -5px;
+}
+.addthis_32x32_style .at4-icon {
+  background: url(/img/socialicons.png) no-repeat left !important;
+}
+.addthis_32x32_style .at4-icon.aticon-linkedin {
+  background-position: 0 0 !important;
+}
+.addthis_32x32_style .at4-icon.aticon-github {
+  background-position: 0 -32px !important;
+}
+.addthis_32x32_style .at4-icon.aticon-youtube {
+  background-position: 0 -64px !important;
+}
+.addthis_32x32_style .at4-icon.aticon-twitter {
+  background-position: 0 -96px !important;
+}
+.addthis_32x32_style .at4-icon.aticon-facebook {
+  background-position: 0 -128px !important;
+}
+.addthis_32x32_style .at4-icon.aticon-pinterest {
+  background-position: 0 -160px !important;
+}
+.addthis_32x32_style .at4-icon.aticon-instagram {
+  background-position: 0 -192px !important;
+}
+/*
 footer .addthis_32x32_style .at15nc.at300bs {
   background: url(/img/socialicons.png) no-repeat left !important;
 }
@@ -50,3 +87,5 @@ footer .addthis_32x32_style .at15nc.at15t_pinterest {
 footer .addthis_32x32_style .at15nc.at15t_instagram {
   background-position: 0 -192px !important;
 }
+
+*/
