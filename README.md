@@ -68,7 +68,7 @@ In order to retain my specially designed grey icons I needed to change the class
 
 Class name changes are as follows:
 
- .at15nc is now => .at4-icon
+ .at15nc is now => .at4-icon AND
  .at15t_linkedin is now => .aticon-linkedin
 
 I've changed my style sheets accordingly.
