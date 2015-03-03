@@ -56,4 +56,20 @@ media plugin, so this is added using the .addthig_button_github_follow class and
 with user name.
 
     
+ ===================================================================================================================
+ 03/03/2015
+ 
+ Update README
+
+
+AddThis.com changed class names which broke my code
+
+In order to retain my specially designed grey icons I needed to change the class names to reflect those changed by AddThis.com otherwise the ugly default icons were displayed on my website, not in keeping with my design.
+
+Class name changes are as follows:
+
+ .at15nc is now => .at4-icon
+ .at15t_linkedin is now => .aticon-linkedin
+
+I've changed my style sheets accordingly.
  
